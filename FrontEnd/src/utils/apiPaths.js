@@ -1,4 +1,7 @@
-export const BASE_URL = "http://localhost:8000";
+export const BASE_URL =
+  window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
+    ? "http://localhost:8000"
+    : "https://expense-tracker-backend-npzn.onrender.com";
 
 export const API_PATHS = {
   AUTH: {
