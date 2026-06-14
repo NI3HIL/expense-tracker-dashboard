@@ -1,5 +1,8 @@
 # Expense Tracker Dashboard - Personal Finance Management System
 
+## 🔗 Live Demo
+Access the live application here: **[https://expense-tracker-dashboard-ebon.vercel.app](https://expense-tracker-dashboard-ebon.vercel.app)**
+
 Expense Tracker Dashboard is a full-stack personal finance management application built on the MERN stack (MongoDB, Express.js, React, Node.js). It provides users with secure authentication, real-time transaction tracking, automated budgeting insights, and clean data visualizations.
 
 ## 🚀 Key Features
