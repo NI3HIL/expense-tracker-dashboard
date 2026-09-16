@@ -550,17 +550,6 @@ const COLORS = ["#875CF5", "#FA2C37", "#FF6900", "#your-color"];
 - **Virtual Scrolling**: Large list performance optimization
 - **Debounced Search**: Optimized search functionality
 
-## 📝 License
-
-This project is licensed under the ISC License - see the [LICENSE](../LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Nhan Pham Thanh**
-
-- GitHub: [@NhanPhamThanh-IT](https://github.com/NhanPhamThanh-IT)
-- Portfolio: [Your Portfolio URL]
-
 ## 🙏 Acknowledgments
 
 - **React Team** for the amazing React framework
