@@ -419,16 +419,6 @@ Configured to allow requests from the frontend application with appropriate head
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the ISC License - see the [LICENSE](../LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Nhan Pham Thanh**
-
-- GitHub: [@NhanPhamThanh-IT](https://github.com/NhanPhamThanh-IT)
-
 ## 🙏 Acknowledgments
 
 - Express.js team for the excellent web framework
